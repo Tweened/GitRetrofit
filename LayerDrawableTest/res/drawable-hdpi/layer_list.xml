@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:width="50dp"
+        android:height="50dp"
+        android:drawable="@drawable/black_rect_cubic">
+
+    </item>
+
+    <item
+        android:width="50dp"
+        android:height="50dp"
+        android:drawable="@drawable/red_rect_cubic">
+
+    </item>
+
+    <item
+        android:width="50dp"
+        android:height="50dp"
+        android:drawable="@drawable/green_rect_cubic">
+
+    </item>
+
+    <item
+        android:width="50dp"
+        android:height="50dp"
+        android:drawable="@drawable/blue_rect_cubic">
+
+    </item>
+
+</layer-list>
